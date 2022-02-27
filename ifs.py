@@ -1,4 +1,4 @@
-bank = 44
+bank = float(input("insert bank balance: "))
 
 if bank > 1000:
     print("pog")
